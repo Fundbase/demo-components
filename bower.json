@@ -2,7 +2,7 @@
   "name": "demo-components",
   "version": "0.0.0",
   "authors": [
-    "Marek Stanczyk"
+    "Marek Stanczyk <marek.stanczyk@fundbase.com>"
   ],
   "moduleType": [
     "globals"
